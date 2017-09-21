@@ -6,15 +6,15 @@ title: Ananya Sai B
 Hi there, I'm Ananya! I am currently doing my MTech in Computer Science at IIT Madras. I have completed an academic adventure of exploring the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing to Indexing large datasets and Deep learning. I am currently exploring the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/)
 
 # Projects
-## Attentive deep neural networks for Question Answering
+- ## Attentive deep neural networks for Question Answering
 Modelling RNNs for reading comprehension tasks, specifically to answer questions based on given passage, by exploring various attention mechanisms
-## Query plan selector for MongoDB
+- ## Query plan selector for MongoDB
 Implemented a query plan selector/pruner in MongoDB to reduce the number of query plans to be executed.
-## AI-powered Pacman
+- ## AI-powered Pacman
 Empowered pacman game character with artificial intelligence to get high scores on the game (This project was as part of edX course CS188.1x Artificial Intelligence)
-## Supergraph search in graph databases
+- ## Supergraph search in graph databases
 Graph isomorphism being an NP problem, an edge-based tree index was built to make the search algorithm faster.
-## Mini Java compiler
+- ## Mini Java compiler
 Implemented an optimizing compiler for IR code generation along with optimizations of Conditional Constant Propagation and Function Inlining.
 
 # Work Experience
