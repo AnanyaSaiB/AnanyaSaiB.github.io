@@ -5,6 +5,27 @@ title: Ananya Sai B
 # About Me
 Hi there, I'm Ananya! I am currently doing my MTech in Computer Science at IIT Madras. I have completed an academic adventure of exploring the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing to Indexing large datasets and Deep learning. I am currently exploring the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/)
 
+# Publications
+ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions <b>IJCAI-18</b>
+Soham Parikh ∗ Ananya Sai B ∗ , Preksha Nema ∗ , Mitesh M. Khapra ( ∗ denotes equal contribution) [link](https://www.ijcai.org/proceedings/2018/0594.pdf)
+Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses ##AAAI-19 (Jan 2019)
+Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan (paper ID : 2744 - [link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) )
+
+# Work Experience
+I worked on a research internship at Nvidia from March 2018 - Nov 2018, with mentors Dr.Mithun Das Gupta from Microsoft and Mukundhan Srinivasan from Nvidia.
+I worked for an year at Cisco as a Software Engineer from August 2015 to June 2016. I worked on OSPF routing protocol, building a data model to enable coordinating large set of routers centrally. I also worked on RCMD (Route Convergence Monitoring and Diagnostics) project to quickly detect failures in the network.
+
+# Teaching Experience
+I work as a teaching assistant(TA) for Probability and Computing(CS5820) taught by Professor John Augustine. (July - Dec 2017) and for Deep Learning taught by Professor Mitesh M. Khapra - (Jan - May 2018)
+
+# Academic Details
+I completed my BE in Computer Science and Engineering at Sri Jayachamarajendra College of Engineering, Mysore in 2015 with a cgpa of 9.53/10.
+I completed my Masters (MTech) in Computer Science at IIT Madras with a cgpa of 9.25/10.
+
+# Awards and Honors
+Microsoft India Research travel grant - AAAI-2019
+Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
+
 # Projects
 - ## Attentive deep neural networks for Question Answering
 Modelling RNNs for reading comprehension tasks, specifically to answer questions based on given passage, by exploring various attention mechanisms
@@ -17,11 +38,3 @@ Graph isomorphism being an NP problem, an edge-based tree index was built to mak
 - ## Mini Java compiler
 Implemented an optimizing compiler for IR code generation along with optimizations of Conditional Constant Propagation and Function Inlining.
 
-# Work Experience
-I worked for an year at Cisco as a Software Engineer from August 2015 to June 2016. I worked on OSPF routing protocol, building a data model to enable coordinating large set of routers centrally. I also worked on RCMD (Route Convergence Monitoring and Diagnostics) project to quickly detect failures in the network.
-
-# Teaching Experience
-I work as a teaching assistant for Probability and Computing(CS5820) taught by Professor John Augustine. The work involves setting up and grading tutorials and assignments for the course.
-
-# Academic Details
-I completed my BE in Computer Science and Engineering at Sri Jayachamarajendra College of Engineering, Mysore in 2015 with a cgpa of 9.53/10.
