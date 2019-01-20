@@ -3,12 +3,12 @@ layout: default
 title: Ananya Sai B
 ---
 # About Me
-Hi there, I'm Ananya! I am currently doing my MTech in Computer Science at IIT Madras. I have completed an academic adventure of exploring the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing to Indexing large datasets and Deep learning. I am currently exploring the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/)
+Hi there, I'm Ananya! I recently completed my Masters in Computer Science at IIT Madras. It was, for me, a thrilling academic adventure where I explored the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing Searching and Indexing large datasets and Deep learning. I finally took a jump into the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and continue to dive into research here. I am driven to provide effective and accountable solutions towards allievating the burdens of the modern world and towards the progress of society. I am always eager to intermix my diverse background with research at the intersection of domains. My research interests broadly include Artificial Intelligence, Deep Learning, Adversarial Attacks, Explainability and Security, Natural Language Processing, Optimizations, Collective Intelligence.
 
 # Publications
 - ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions <b>IJCAI-18</b> <br/>
 Soham Parikh ∗ Ananya Sai B ∗ , Preksha Nema ∗ , Mitesh M. Khapra ( ∗ denotes equal contribution) [link](https://www.ijcai.org/proceedings/2018/0594.pdf)<br/>
-- Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses <b>AAAI-19<b> (Jan 2019) <br/>
+- Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses <b>AAAI-19</b> (Jan 2019) <br/>
 Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan (paper ID : 2744 - [link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) )
 
 # Work Experience
