@@ -28,7 +28,9 @@ I completed my Masters (MTech) in Computer Science at IIT Madras with a cgpa of 
 
 # Projects
 - ## Attentive deep neural networks for Question Answering
-Modelling RNNs for reading comprehension tasks, specifically to answer questions based on given passage, by exploring various attention mechanisms
+Modelled RNNs for reading comprehension tasks, specifically to answer questions based on given passage, by exploring various attention mechanisms
+- ## Dissecting Reading Comprehension models: analyzing their components
+Evaluated the contribution of various attention modules and components in the existing neural network models for QA. Created simpler versions of the RACE dataset with hints to the answer in the passage or question to analyze the behaviour of various components and identified certain shortcomings in the existing models.
 - ## Query plan selector for MongoDB
 Implemented a query plan selector/pruner in MongoDB to reduce the number of query plans to be executed.
 - ## AI-powered Pacman
@@ -37,4 +39,7 @@ Empowered pacman game character with artificial intelligence to get high scores 
 Graph isomorphism being an NP problem, an edge-based tree index was built to make the search algorithm faster.
 - ## Mini Java compiler
 Implemented an optimizing compiler for IR code generation along with optimizations of Conditional Constant Propagation and Function Inlining.
+
+# Hobbies
+- Playing Mandolin, Solving puzzles, Reading, Marathon running
 
