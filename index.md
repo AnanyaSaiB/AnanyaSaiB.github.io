@@ -39,6 +39,8 @@ Empowered pacman game character with artificial intelligence to get high scores 
 Graph isomorphism being an NP problem, an edge-based tree index was built to make the search algorithm faster.
 - ## Mini Java compiler
 Implemented an optimizing compiler for IR code generation along with optimizations of Conditional Constant Propagation and Function Inlining.
+- ## Virtual Treasure Hunt
+Created and hosted an online game of treasure hunt with image-based clues. A critical part of this project was sealing the game from various 'hacks' and attacks that could help someone cheat at or tamper with the game.
 
 # Hobbies
 - Playing Mandolin, Solving puzzles, Reading, Marathon running
