@@ -11,14 +11,14 @@ Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. 
 - Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
 
 # Current Works
-- Survey of Evaluation metrics in NLG [link](https://drive.google.com/file/d/1DkkwwzeFSHrS5cse7KHEv0MoNKu098dG/view?usp=sharing)<br/>
+- Survey of Evaluation metrics in NLG ([link](https://drive.google.com/file/d/1DkkwwzeFSHrS5cse7KHEv0MoNKu098dG/view?usp=sharing))<br/>
 - Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining (link coming soon)
 
 # Publications
 - ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions <b>IJCAI-18</b> <br/>
-Soham Parikh ∗ Ananya Sai B ∗ , Preksha Nema ∗ , Mitesh M. Khapra ( ∗ denotes equal contribution) [link](https://www.ijcai.org/proceedings/2018/0594.pdf)<br/>
+Soham Parikh ∗ Ananya Sai B ∗ , Preksha Nema ∗ , Mitesh M. Khapra ( ∗ denotes equal contribution) ([link](https://www.ijcai.org/proceedings/2018/0594.pdf))<br/>
 - Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses <b>AAAI-19</b> (Jan 2019) <br/>
-Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan (paper ID : 2744 - [link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) )
+Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan ([link](https://www.aaai.org/ojs/index.php/AAAI/article/view/4581) )
 
 # Work Experience
 I worked on a research internship at Nvidia from March 2018 - Nov 2018, with mentors Dr.Mithun Das Gupta from Microsoft and Mukundhan Srinivasan from Nvidia. <br/>
