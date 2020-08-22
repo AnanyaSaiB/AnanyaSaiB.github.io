@@ -50,5 +50,6 @@ Implemented an optimizing compiler for IR code generation along with optimizatio
 Created and hosted an online game of treasure hunt with image-based clues. A critical part of this project was sealing the game from various 'hacks' and attacks that could help someone cheat at or tamper with the game.
 
 # Hobbies
-- Playing Mandolin, Solving puzzles, Reading, Marathon running
+- Playing Mandolin, Solving puzzles, Reading
+
 
