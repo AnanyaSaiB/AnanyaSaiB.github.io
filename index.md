@@ -3,7 +3,16 @@ layout: default
 title: Ananya Sai B
 ---
 # About Me
-Hi there, I'm Ananya! I recently completed my Masters in Computer Science at IIT Madras. It was, for me, a thrilling academic adventure where I explored the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing Searching and Indexing large datasets and Deep learning. I finally took a jump into the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and continue to dive into research here. I am driven to provide effective and accountable solutions towards allievating the burdens of the modern world and towards the progress of society. I am always eager to intermix my diverse background with research at the intersection of domains. My research interests broadly include Artificial Intelligence, Deep Learning, Adversarial Attacks, Explainability and Security, Natural Language Processing, Optimizations, Collective Intelligence.
+Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. It was, for me, a thrilling academic adventure where I explored the breadths of Computer Science by crediting courses from various domains ranging from Compilers, Cloud computing Searching and Indexing large datasets and Deep learning. I finally took a jump into the depths of Deep Learning and NLP under the guidance of [Dr Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) and continue to dive into research here as a Ph.D. student now. My research interests broadly include Artificial Intelligence, Deep Learning, Adversarial Attacks, Explainability and Security, Natural Language Processing, Optimizations, Collective Intelligence.
+
+# Awards and Honors
+- Google PhD Fellowship - 2019
+- Microsoft India Research travel grant - AAAI-2019 
+- Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
+
+# Current Works
+- Survey of Evaluation metrics in NLG [link](https://drive.google.com/file/d/1DkkwwzeFSHrS5cse7KHEv0MoNKu098dG/view?usp=sharing)<br/>
+- Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining (link coming soon)
 
 # Publications
 - ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions <b>IJCAI-18</b> <br/>
@@ -21,10 +30,6 @@ I work as a teaching assistant(TA) for Probability and Computing(CS5820) taught 
 # Academic Details
 I completed my BE in Computer Science and Engineering at Sri Jayachamarajendra College of Engineering, Mysore in 2015 with a cgpa of 9.53/10. <br/>
 I completed my Masters (MTech) in Computer Science at IIT Madras with a cgpa of 9.25/10.
-
-# Awards and Honors
-- Microsoft India Research travel grant - AAAI-2019 
-- Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
 
 # Projects
 - ## Attentive deep neural networks for Question Answering
