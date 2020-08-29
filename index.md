@@ -11,7 +11,7 @@ Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. 
 - Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
 
 # Current Works
-- Survey of Evaluation metrics in NLG ([link](https://drive.google.com/file/d/1DkkwwzeFSHrS5cse7KHEv0MoNKu098dG/view?usp=sharing))<br/>
+- Survey of Evaluation metrics in NLG ([link](https://arxiv.org/abs/2008.12009))<br/>
   Ananya Sai B , Akash Kumar Mohankumar , Mitesh M. Khapra <br/>
 - Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining (link coming soon) <br/>
   Ananya Sai B ∗ , Akash Kumar Mohankumar ∗ , Mitesh M. Khapra <br/>
