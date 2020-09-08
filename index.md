@@ -27,7 +27,16 @@ I worked on a research internship at Nvidia from March 2018 - Nov 2018, with men
 I worked for an year at Cisco as a Software Engineer from August 2015 to June 2016. I worked on OSPF routing protocol, building a data model to enable coordinating large set of routers centrally. I also worked on RCMD (Route Convergence Monitoring and Diagnostics) project to quickly detect failures in the network.
 
 # Teaching Experience
-I work as a teaching assistant(TA) for Probability and Computing(CS5820) taught by Professor John Augustine. (July - Dec 2017) and for Deep Learning taught by Professor Mitesh M. Khapra - (Jan - May 2018)
+I work as a teaching assistant(TA) for Linear Algebra and Random Processes. Earlier I have been a TA for 
+Probability and Computing(CS5820) taught by Dr. John Augustine. (July - Dec 2017) 
+Deep Learning taught by Dr. Mitesh M. Khapra - (Jan - May 2018) and (Jan - May 2019)
+Pattern Recognition and Machine Learning taught by Dr. Arun Kumar (July - Dec 2019) and by Dr. Harish Guruprasad (Jan - May 2020)
+
+# Other Positions of Responsibility
+ - ACL 2020 (Secondary Reviewer)
+ - AAAI 2019 (Secondary Reviewer)
+ - Technical Co-ordinator of Linux Campus Club, SJCE (2014-15)
+ - Vice-Chairman, Web Designing Board, IEEE-SJCE (2014-15)
 
 # Academic Details
 I completed my BE in Computer Science and Engineering at Sri Jayachamarajendra College of Engineering, Mysore in 2015 with a cgpa of 9.53/10. <br/>
