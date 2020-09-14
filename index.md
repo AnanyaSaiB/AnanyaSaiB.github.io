@@ -12,11 +12,11 @@ Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. 
 
 # Current Works
 - Survey of Evaluation metrics in NLG ([link](https://arxiv.org/abs/2008.12009))<br/>
-  Ananya Sai B , Akash Kumar Mohankumar , Mitesh M. Khapra <br/>
+  Ananya Sai B, Akash Kumar Mohankumar, Mitesh M. Khapra <br/>
 
 # Publications
 - Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining <b>TACL</b> (2020) (link coming soon) <br/>
-  Ananya Sai B , Akash Kumar Mohankumar , Mitesh M. Khapra <br/>
+  Ananya Sai B* , Akash Kumar Mohankumar* , Siddhartha Arora , Mitesh M. Khapra <br/>
 - Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses <b>AAAI-19</b> (Jan 2019) <br/>
 Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan ([link](https://www.aaai.org/ojs/index.php/AAAI/article/view/4581) )
 - ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions <b>IJCAI-18</b> <br/>
