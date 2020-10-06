@@ -7,6 +7,7 @@ Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. 
 
 # Awards and Honors
 - Google PhD Fellowship - 2019
+- Star TA award, IIT Madras - 2019
 - Microsoft India Research travel grant - AAAI-2019 
 - Kris Gopalakrishnan CSE student travel grant - IJCAI 2018
 
@@ -15,7 +16,7 @@ Hi there, I'm Ananya! I completed my Masters in Computer Science at IIT Madras. 
   Ananya Sai B, Akash Kumar Mohankumar, Mitesh M. Khapra <br/>
 
 # Publications
-- Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining <b>TACL</b> (2020) (link coming soon) <br/>
+- Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining <b>TACL</b> (2020) ([link](https://arxiv.org/abs/2009.11321)) <br/>
   Ananya Sai B* , Akash Kumar Mohankumar* , Siddhartha Arora , Mitesh M. Khapra <br/>
 - Re-evaluating ADEM: A Deeper Look at Scoring Dialogue Responses <b>AAAI-19</b> (Jan 2019) <br/>
 Ananya Sai B, Mithun Das Gupta, Mitesh M. Khapra, Mukundhan Srinivasan ([link](https://www.aaai.org/ojs/index.php/AAAI/article/view/4581) )
