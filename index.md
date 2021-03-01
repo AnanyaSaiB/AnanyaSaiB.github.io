@@ -9,7 +9,7 @@ You can reach me at ananya[at]cse[dot]iitm[dot]ac[dot]in or locate me in [RBCDSA
 
 # Current Works and Upcoming Events
 - We will be conducting [A Tutorial on Evaluation Metrics used in Natural Language Generation](https://2021.naacl.org/program/tutorials/#a-tutorial-on-evaluation-metrics-used-in-natural-language-generation) at [NAACL-2021](https://2021.naacl.org/). 
-- The [preprint link](https://arxiv.org/abs/2008.12009) for a current work is now available: <br/> Survey of Evaluation metrics in NLG <br/>
+- The [preprint link](https://arxiv.org/abs/2008.12009) for a current work is now available: <br/> Survey of Evaluation metrics in NLG ([preprint link](https://arxiv.org/abs/2008.12009)) <br/>
   Ananya Sai B, Akash Kumar Mohankumar, Mitesh M. Khapra <br/>
 
 # Publications
